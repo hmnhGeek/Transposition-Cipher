@@ -1,0 +1,17 @@
+Welcome to the Transposition Cipher
+-----------------------------------
+
+1.) Type "encrypt" to encrypt plain text in Transposition Cipher..
+2.) Type "decrypt" to decrypt plain text from Transposition Cipher..
+3.) Type "encrypt <key> <filename>" to encrypt the plain text file in Transposition Cipher.
+4.) Type "decrypt <key> <filename>" to decryot the plain text file from Transposition Cipher.
+5.) Type "about" to know about Transposition Cipher.
+6.) Type "kill <address of a file>" to delete that file.
+
+Note: 1.) Though we are providing "kill" keyword, it would be better if you close the terminal directly from close button.
+      2.) Your key must always be greater than 2 (excluded), otherwise, we are unable to decrypt it.
+      3.) There is a small bug in the program and that is that when you use "encrypt" command, sometimes the key you
+	  choose will give error while decrypting. So, it is advised that after encrypting with a key, you must decrypt
+          your code at the same time and see if there is a "fatal error". If it is there choose a different key.
+
+---------------------------------------------------------------------------------------------------------------------------
